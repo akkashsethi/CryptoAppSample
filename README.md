@@ -1,6 +1,7 @@
 ## Tech Stack
-- Kotlin
-- Jetpack Compose
+- Kotlin - 2.2.10
+- Jetpack Compose - Jetpack Compose BOM 2025.08.00
+- Minimum deployment target: Android API level 35
 - MVVM / Clean Architecture
 - Retrofit
 - Coroutines
