@@ -10,6 +10,7 @@
 - CoinList Screen Showing list of crypto coins
 - CoinDetail Screen showing details of a particular coin
 - proper ui handling(Loading/Success/Error)
+- retry mechanism is implemented for network request
 - Unit test for view model(error,success,loading),networking(mock web server)
 - PullTorefresh supported for coin list screen
 - navigation framework is used for compose
